@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1666233953 source:c:\users\administrador\documents\utn\programación 1\proyectos\abmpersonas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"persona.h"
+	"datawarehouse.h"
+	"localidad.h"
+
+1666233175 c:\users\administrador\documents\utn\programación 1\proyectos\abmpersonas\persona.h
+	"localidad.h"
+
+1666234686 source:c:\users\administrador\documents\utn\programación 1\proyectos\abmpersonas\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"persona.h"
+
+1666136068 source:c:\users\administrador\documents\utn\programación 1\proyectos\abmpersonas\datawarehouse.c
+	<string.h>
+	"datawarehouse.h"
+
+1665982312 c:\users\administrador\documents\utn\programación 1\proyectos\abmpersonas\datawarehouse.h
+	"persona.h"
+
+1666229611 source:c:\users\administrador\documents\utn\programación 1\proyectos\abmpersonas\localidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"localidad.h"
+
+1666233400 c:\users\administrador\documents\utn\programación 1\proyectos\abmpersonas\localidad.h
+
+1666136068 source:c:\users\administrador\documents\utn\programación 1\proyectos\pp2022_mariano_testado_1g\datawarehouse.c
+	<string.h>
+	"datawarehouse.h"
+
+1665982312 c:\users\administrador\documents\utn\programación 1\proyectos\pp2022_mariano_testado_1g\datawarehouse.h
+	"persona.h"
+
+1666233175 c:\users\administrador\documents\utn\programación 1\proyectos\pp2022_mariano_testado_1g\persona.h
+	"localidad.h"
+
+1666233400 c:\users\administrador\documents\utn\programación 1\proyectos\pp2022_mariano_testado_1g\localidad.h
+
+1666310440 source:c:\users\administrador\documents\utn\programación 1\proyectos\pp2022_mariano_testado_1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"primerbiblioteca.h"
+	"datawarehouse.h"
+	"segundabiblioteca.h"
+
+1666310518 c:\users\administrador\documents\utn\programación 1\proyectos\pp2022_mariano_testado_1g\primerbiblioteca.h
+	"segundabiblioteca.h"
+
+1666310518 c:\users\administrador\documents\utn\programación 1\proyectos\pp2022_mariano_testado_1g\segundabiblioteca.h
+
+1666310440 source:c:\users\administrador\documents\utn\programación 1\proyectos\pp2022_mariano_testado_1g\primerbiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"primerbiblioteca.h"
+
+1666310440 source:c:\users\administrador\documents\utn\programación 1\proyectos\pp2022_mariano_testado_1g\segundabiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"segundabiblioteca.h"
+
